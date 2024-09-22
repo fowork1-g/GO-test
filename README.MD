@@ -1,6 +1,6 @@
 # Demo project
 
-## Make numeric matrix by requirements
+## Makes numeric matrix by requirements
 
 Can generate a X*Y numeric matrix filled with unique or non-unique numbers from a specified range.
 
